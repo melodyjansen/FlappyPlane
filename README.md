@@ -1,2 +1,2 @@
 # FlappyPlane!
-play game here: https://supersadmelody.github.io/FlappyPlane/index.html
+play game here: https://melodyjansen.github.io/FlappyPlane/index.html
